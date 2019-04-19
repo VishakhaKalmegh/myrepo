@@ -1,4 +1,6 @@
 class Department:
+    
+    '''This is the class for Department which will store Info Of Department'''
 
     def __init__(self,id,name):
         self.deptId=id
